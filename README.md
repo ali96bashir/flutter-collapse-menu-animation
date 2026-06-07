@@ -1,6 +1,6 @@
 # Animated Collapse Menu 🚀
 
-A modern animated collapse navigation menu built with Flutter and Rive animations.
+A modern animated collapse navigation menu built with Flutter.
 
 ## Preview
 
@@ -27,7 +27,6 @@ A modern animated collapse navigation menu built with Flutter and Rive animation
 
 - Flutter
 - Dart
-- Rive Animation
 - AnimationController
 - Custom UI Motion
 
