@@ -5,7 +5,7 @@ A modern animated collapse navigation menu built with Flutter and Rive animation
 ## Preview
 
 <p align="center">
-  <img src="assets/demo.gif" width="280"/>
+  <img src="src/video/demo.gif" width="280"/>
 </p>
 
 
