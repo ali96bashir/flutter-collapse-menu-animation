@@ -6,6 +6,8 @@ A modern animated collapse navigation menu built with Flutter.
 
 <p align="center">
   <img src="src/video/demo.gif" width="280"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="src/video/demo_v2.gif" width="280"/>
 </p>
 
 
